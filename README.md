@@ -10,3 +10,5 @@ I am a PhD student in the UConn EEB department interested in structural variants
 [My CV](PDFs/Airianna_McGuire_CV_2024.pdf)
 
 [Contact Info](contact-info.html) 
+
+[UConn EEB Department](https://eeb.uconn.edu/) 
