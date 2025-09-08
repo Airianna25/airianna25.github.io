@@ -1,6 +1,6 @@
 # Airianna McGuire
 
-![Image of Airianna](images/headshot.jpg "ah")
+![Image of Airianna](images/headshot1.jpg "ah")
 
 ## About Me
 I am a PhD student in the UConn EEB department interested in structural variants related to climate adapatation in an Arctic salmonid, and how pangenomes can be leveraged to assess structural variation.
