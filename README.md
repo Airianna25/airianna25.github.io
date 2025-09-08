@@ -1,6 +1,7 @@
 # Airianna McGuire
 
-<img src="images/headshot.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/Airianna25/airianna25.github.io/main/images/headshot.jpg" width="200" />
+
 
 
 ## About Me
